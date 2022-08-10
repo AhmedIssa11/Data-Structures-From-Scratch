@@ -1,5 +1,5 @@
 # Data-Structures-From-Scratch
-This repository is where I store some important codes from CS213 unversity course (2019) and the implementation of data structures from scratch
+This repository is where I store some important codes from CS213 university course (2019) and the implementation of data structures from scratch
 
 
 ## Backtracking Standard Problems:
